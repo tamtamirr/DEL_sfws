@@ -1,0 +1,4 @@
+salesforce.VoiceSettings {
+  fullName = "Voice"
+  enableVendorQueueManagement = "false"
+}

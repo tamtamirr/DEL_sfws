@@ -1,0 +1,11 @@
+salesforce.ApexClass OlderAccountsUtility {
+  apiVersion = 55
+  status = "Active"
+  fullName = "OlderAccountsUtility"
+  content = file("salesforce/Records/ApexClass/OlderAccountsUtility.cls")
+  _generated_dependencies = [
+    {
+      reference = salesforce.Account
+    },
+  ]
+}

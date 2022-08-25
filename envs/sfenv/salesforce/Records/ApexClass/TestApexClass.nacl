@@ -1,0 +1,6 @@
+salesforce.ApexClass TestApexClass {
+  apiVersion = 55
+  status = "Active"
+  fullName = "TestApexClass"
+  content = file("salesforce/Records/ApexClass/TestApexClass.cls")
+}

@@ -1,0 +1,6 @@
+salesforce.ApexClass TemperatureConverter {
+  apiVersion = 55
+  status = "Active"
+  fullName = "TemperatureConverter"
+  content = file("salesforce/Records/ApexClass/TemperatureConverter.cls")
+}

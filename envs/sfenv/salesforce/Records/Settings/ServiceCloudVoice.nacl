@@ -1,0 +1,9 @@
+salesforce.ServiceCloudVoiceSettings {
+  fullName = "ServiceCloudVoice"
+  enableDefaultChannelForSCV = "false"
+  enableEndUserForSCV = "false"
+  enableOmniCapacityForSCV = "false"
+  enableSCVBYOT = "false"
+  enableServiceCloudVoice = "false"
+  enableVoiceInGovCloudOptIn = "false"
+}
